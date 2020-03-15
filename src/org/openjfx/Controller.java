@@ -1,4 +1,4 @@
-package sample;
+package org.openjfx;
 
 public class Controller {
 
